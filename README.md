@@ -17,4 +17,4 @@ RISC-IV is a 4-bit RISC minicomputer built from logic chips and memory. I built 
 * 128 x 7 bit RAM and stack-shaped object (SSO)
 * Input and output ports
 * BCD arithmetic
-* 3 primitive instructions
+* 2 instructions
